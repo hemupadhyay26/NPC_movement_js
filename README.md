@@ -1,5 +1,3 @@
-Certainly! A README file is essential for explaining a project's purpose, usage, and any necessary setup instructions. Here's an example of how you might structure a README for your 2D character animation project using JavaScript and Canvas:
-
 ---
 
 # 2D Character Animation using JavaScript and Canvas
