@@ -20,12 +20,6 @@ In this project, I've explored interactive graphics programming to animate 2D ch
 2. **Open `index.html`:** Open the `index.html` file in a modern web browser to view the animation.
 3. **Explore the Animations:** Observe the various NPC movements within the Canvas. Interact with the characters to see their dynamic behavior!
 
-## Showcase
-
-![NPC Animation GIF](https://www.linkedin.com/posts/hem-upadhyay-4460b31b9_javascript-canvas-2danimation-activity-7140984216397275136-7G65?utm_source=share&utm_medium=member_desktop)
-
-*Above A snippet showcasing the diverse movements of the NPCs within the Canvas environment.*
-
 ## Technologies Used
 
 - JavaScript
@@ -37,6 +31,6 @@ This project was inspired by the desire to explore the realm of interactive grap
 
 ## Get in Touch
 
-For any inquiries or feedback, feel free to contact me at [email@example.com](mailto:hemupadhyay444@gmail.com).
+For any inquiries or feedback, feel free to contact me at [email@gmail.com](mailto:hemupadhyay444@gmail.com).
 
 ---
